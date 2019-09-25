@@ -1,4 +1,4 @@
-Little experiment with kafka streams copied from the confluent examples. Also rolled a java producer and consumer to demonstrate the WordProducer in action.  
+Little experiment with kafka streams copied from the confluent examples. Also rolled a java producer and consumer to demonstrate the WordCount in action.  
 
 to have a go follow these steps:
 
